@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Alif Jian</h1>
 <h3 align="center">💻 Programmer • 🔬 Explorer • 🚀 Learner</h3>
 
-<a href="github.com/AlifJian">
+<a href="https://github.com/AlifJian">
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?   font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;I+build+cool+projects;I+love+Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;I+build+cool+projects;I+love+Open+Source" alt="Typing SVG" />
   </p>
 </a>
 ---
@@ -18,7 +18,7 @@
 
 ### 📈 GitHub Stats
 
-<a href="github.com/AlifJian">
+<a href="https://github.com/AlifJian">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AlifJian&show_icons=true&theme=tokyonight&count_private=true" />
     <br />
@@ -32,7 +32,7 @@
 
 ### 🔥 Contribution Graph
 
-<a href="github.com/AlifJian">
+<a href="https://github.com/AlifJian">
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlifJian&theme=github-compact" />
   </p>
