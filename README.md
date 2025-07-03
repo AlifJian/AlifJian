@@ -1,10 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Alif Jian</h1>
 <h3 align="center">💻 Programmer • 🔬 Explorer • 🚀 Learner</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;I+build+cool+projects;I+love+Open+Source" alt="Typing SVG" />
-</p>
-
+<a href="github.com/AlifJian">
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?   font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;I+build+cool+projects;I+love+Open+Source" alt="Typing SVG" />
+  </p>
+</a>
 ---
 
 ### 🚀 About Me
@@ -17,22 +18,25 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlifJian&show_icons=true&theme=tokyonight&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlifJian&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlifJian&layout=compact&theme=tokyonight" />
-</p>
+<a href="github.com/AlifJian">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlifJian&show_icons=true&theme=tokyonight&count_private=true" />
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlifJian&theme=tokyonight" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlifJian&layout=compact&theme=tokyonight" />
+  </p>
+</a>
 
 ---
 
 ### 🔥 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlifJian&theme=github-compact" />
-</p>
-
+<a href="github.com/AlifJian">
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlifJian&theme=github-compact" />
+  </p>
+</a>
 ---
 
 ### ✨ Fun Zone
