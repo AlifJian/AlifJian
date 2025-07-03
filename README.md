@@ -9,8 +9,8 @@
 
 ### 🚀 About Me
 - 🎓 I’m an Informatics Engineering student. 
-- 🌱 I’m currently learning: **Whatsapp Bot, TypeScrip, Clean Code**
-- 💬 Ask me about: `Node.js`, `Golang`, etc.
+- 🌱 I’m currently learning: **Whatsapp Bot, TypeScript, Clean Code**
+- 💬 Ask me about: `Node.js`, `Go`, etc.
 - 📫 Reach me at: *alifjian834*@example.com**
 
 ---
@@ -42,6 +42,8 @@
 - 💡 Random Dev Badge:
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
