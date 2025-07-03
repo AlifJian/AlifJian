@@ -40,8 +40,8 @@
 - 💬 Favorite Quote:
   > "We can't direct the wind, but we can adjust the sails."  
 - 💡 Random Dev Badge:
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&LogoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&LogoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
