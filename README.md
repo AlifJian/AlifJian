@@ -12,7 +12,7 @@
 - 🎓 I’m an Informatics Engineering student. 
 - 🌱 I’m currently learning: **Whatsapp Bot, TypeScript, Clean Code**
 - 💬 Ask me about: `Node.js`, `Go`, etc.
-- 📫 Reach me at: **alifjian834*@example.com**
+- 📫 Reach me at: **alifjian834@example.com**
 
 ---
 
