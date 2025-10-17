@@ -12,7 +12,7 @@
 - 🎓 I’m an Informatics Engineering student. 
 - 🌱 I’m currently learning: **Whatsapp Bot, TypeScript, Clean Code**
 - 💬 Ask me about: `Node.js`, `Go`, etc.
-- 📫 Reach me at: **alifjian834@example.com**
+- 📫 Reach me at: **alifjian834@gmail.com**
 
 ---
 
@@ -54,7 +54,7 @@
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/muhamad-alif-jian)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alifjian834@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alifjian834@gmail.com)
 
 ---
 
